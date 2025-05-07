@@ -75,16 +75,6 @@ You should see the login screen. Use the superuser credentials to log in.
 🧪 Testing the API Endpoints
 You can test the API via a browser or Postman.
 
-Example Endpoints:
-GET /api/countries/ - List all countries
-
-GET /api/countries/1/ - Get details of a specific country
-
-GET /api/countries/1/same_region/ - Get countries in the same region
-
-GET /api/countries/by_language/?language=English - Get countries that speak English
-
-You can use the Django REST Framework’s browsable interface for testing or tools like Postman for POST, PUT, DELETE requests.
 
 🔄 Updating Django
 To update Django to the latest version:
